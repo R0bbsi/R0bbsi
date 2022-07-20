@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R0bbsi
 - 👀 I’m interested in Tech, Finance, Martial-Art
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning React-native
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 
